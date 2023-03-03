@@ -1,0 +1,10 @@
+command
+takeoff
+forward 190
+cw 90
+forward 250
+delay 2
+back 250
+cww 90
+back 190
+land
